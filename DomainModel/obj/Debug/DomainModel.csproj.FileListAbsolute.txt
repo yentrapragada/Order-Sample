@@ -1,0 +1,10 @@
+C:\Users\vhadule\Documents\Visual Studio 2015\Projects\OrderSample\DomainModel\bin\Debug\DomainModel.dll
+C:\Users\vhadule\Documents\Visual Studio 2015\Projects\OrderSample\DomainModel\bin\Debug\DomainModel.pdb
+C:\Users\vhadule\Documents\Visual Studio 2015\Projects\OrderSample\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
+C:\Users\vhadule\Documents\Visual Studio 2015\Projects\OrderSample\DomainModel\obj\Debug\DomainModel.dll
+C:\Users\vhadule\Documents\Visual Studio 2015\Projects\OrderSample\DomainModel\obj\Debug\DomainModel.pdb
+C:\Users\dunti\Desktop\OrderSample\DomainModel\bin\Debug\DomainModel.dll
+C:\Users\dunti\Desktop\OrderSample\DomainModel\bin\Debug\DomainModel.pdb
+C:\Users\dunti\Desktop\OrderSample\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
+C:\Users\dunti\Desktop\OrderSample\DomainModel\obj\Debug\DomainModel.dll
+C:\Users\dunti\Desktop\OrderSample\DomainModel\obj\Debug\DomainModel.pdb

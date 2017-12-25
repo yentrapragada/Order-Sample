@@ -1,0 +1,14 @@
+C:\Users\vhadule\Documents\Visual Studio 2015\Projects\OrderSample\Interface\bin\Debug\Interface.dll
+C:\Users\vhadule\Documents\Visual Studio 2015\Projects\OrderSample\Interface\bin\Debug\Interface.pdb
+C:\Users\vhadule\Documents\Visual Studio 2015\Projects\OrderSample\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\vhadule\Documents\Visual Studio 2015\Projects\OrderSample\Interface\obj\Debug\Interface.dll
+C:\Users\vhadule\Documents\Visual Studio 2015\Projects\OrderSample\Interface\obj\Debug\Interface.pdb
+C:\Users\vhadule\Documents\Visual Studio 2015\Projects\OrderSample\Interface\bin\Debug\DomainModel.dll
+C:\Users\vhadule\Documents\Visual Studio 2015\Projects\OrderSample\Interface\bin\Debug\DomainModel.pdb
+C:\Users\dunti\Desktop\OrderSample\Interface\bin\Debug\Interface.dll
+C:\Users\dunti\Desktop\OrderSample\Interface\bin\Debug\Interface.pdb
+C:\Users\dunti\Desktop\OrderSample\Interface\bin\Debug\DomainModel.dll
+C:\Users\dunti\Desktop\OrderSample\Interface\bin\Debug\DomainModel.pdb
+C:\Users\dunti\Desktop\OrderSample\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\dunti\Desktop\OrderSample\Interface\obj\Debug\Interface.dll
+C:\Users\dunti\Desktop\OrderSample\Interface\obj\Debug\Interface.pdb

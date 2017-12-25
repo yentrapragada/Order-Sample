@@ -1,0 +1,44 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+
+<body>
+    <h1>OrderList</h1>
+    <textarea id="orderList" rows="30" cols="100">
+
+    </textarea>
+    <br>
+    <br>
+    <button id="GetList">Get List</button>
+
+</body>
+<script type="text/javascript">
+
+
+    $("#GetList").click(function () {
+        $.ajax({
+
+            url: '/Home/GetOrderList/' ,      
+            type: 'GET',
+            datatype: "application/json",
+            success: function (data) {
+                var text = "";
+                for (i = 0; i < data.length; i++) {
+                    
+                    text += "Order ID:" + data[i].OrderId + "<br>Account Number:" + data[i].AccountNumber + "<br>Customer Name:"
+                         + data[i].CustomerName + "<br>Service Count:" + data[i].ServiceCount + "<br><br>";
+
+                }
+                $("#orderList").val(text.replace(/<br *\/?>/gi,'\n'));
+                $("#GetList").attr("disabled", "disabled");
+
+            },
+            error: function (request, error) {
+                alert("Request: " + JSON.stringify(request));
+            }
+        });
+    });
+
+</script>
+

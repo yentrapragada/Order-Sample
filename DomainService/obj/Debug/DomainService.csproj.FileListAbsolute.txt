@@ -1,0 +1,18 @@
+C:\Users\vhadule\Documents\Visual Studio 2015\Projects\OrderSample\DomainService\bin\Debug\DomainService.dll
+C:\Users\vhadule\Documents\Visual Studio 2015\Projects\OrderSample\DomainService\bin\Debug\DomainService.pdb
+C:\Users\vhadule\Documents\Visual Studio 2015\Projects\OrderSample\DomainService\bin\Debug\Interface.dll
+C:\Users\vhadule\Documents\Visual Studio 2015\Projects\OrderSample\DomainService\bin\Debug\Interface.pdb
+C:\Users\vhadule\Documents\Visual Studio 2015\Projects\OrderSample\DomainService\obj\Debug\DomainService.csprojResolveAssemblyReference.cache
+C:\Users\vhadule\Documents\Visual Studio 2015\Projects\OrderSample\DomainService\obj\Debug\DomainService.dll
+C:\Users\vhadule\Documents\Visual Studio 2015\Projects\OrderSample\DomainService\obj\Debug\DomainService.pdb
+C:\Users\vhadule\Documents\Visual Studio 2015\Projects\OrderSample\DomainService\bin\Debug\DomainModel.dll
+C:\Users\vhadule\Documents\Visual Studio 2015\Projects\OrderSample\DomainService\bin\Debug\DomainModel.pdb
+C:\Users\dunti\Desktop\OrderSample\DomainService\bin\Debug\DomainService.dll
+C:\Users\dunti\Desktop\OrderSample\DomainService\bin\Debug\DomainService.pdb
+C:\Users\dunti\Desktop\OrderSample\DomainService\bin\Debug\DomainModel.dll
+C:\Users\dunti\Desktop\OrderSample\DomainService\bin\Debug\Interface.dll
+C:\Users\dunti\Desktop\OrderSample\DomainService\bin\Debug\DomainModel.pdb
+C:\Users\dunti\Desktop\OrderSample\DomainService\bin\Debug\Interface.pdb
+C:\Users\dunti\Desktop\OrderSample\DomainService\obj\Debug\DomainService.csprojResolveAssemblyReference.cache
+C:\Users\dunti\Desktop\OrderSample\DomainService\obj\Debug\DomainService.dll
+C:\Users\dunti\Desktop\OrderSample\DomainService\obj\Debug\DomainService.pdb
